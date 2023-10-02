@@ -1,0 +1,23 @@
+
+.row{
+    display: flex; 
+
+
+}
+
+.column {
+    display: flex;
+    border: 1px solid black;
+    padding: 22px;   
+    
+}
+
+
+
+
+
+
+
+
+
+
